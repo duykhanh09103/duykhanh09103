@@ -7,5 +7,9 @@
 - 🏫 I'm study in high school
 - 🌱 I'm currently learing frontend-backend developer
 - 📫 You can contact me on discord @duykhanh09103
-
+## Project i'm working on rn
+ **currently none**
+ - i would be happy to collab if you want
+##Commit history(with snake)
+-idk how (yet)
 
