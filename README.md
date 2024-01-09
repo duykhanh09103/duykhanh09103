@@ -1,7 +1,8 @@
-<h1 align="center">Hi , I'm Duykhanh09103👋 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Beginner+progammer;Currently+not+doing+anything;Thanks+for+visiting+my+profile" alt="Typing SVG" /></a>
-
-<!--
+<div align="center">
+  <h1>Hi , I'm Duykhanh09103👋 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Beginner+progammer;Currently+not+doing+anything;Thanks+for+visiting+my+profile" alt="Typing SVG" /></a>
+</div>
+  <!--
 **duykhanh09103/duykhanh09103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
