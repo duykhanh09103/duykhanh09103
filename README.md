@@ -10,6 +10,6 @@
 ## Project i'm working on rn
  **currently none**
  - i would be happy to collab if you want
-## Commit history(with snake)
+## Commits/Contributions  history(with snake)
 -idk how (yet)
 
