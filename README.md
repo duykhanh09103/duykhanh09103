@@ -6,7 +6,7 @@
 ## About me
 - 🏫 I'm study in high school
 - 🌱 I'm currently learing frontend-backend 
-- 📫 You can contact me on discord @duykhanh09103
+- 📫 You can contact me on discord @duykhanh09103 or business@duykhanh09103.xyz
 ## Project i'm working on rn
  **currently none**
  - i would be happy to collab if you want
