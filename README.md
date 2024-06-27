@@ -9,7 +9,7 @@
 - 📫 You can contact me on discord @duykhanh09103 or business@duykhanh09103.xyz
 ## Project i'm working on rn
  **currently none**
- - i would be happy to collab if you want
+ - i would be happy to collab 
 ## Commits/Contributions  history(with snake)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhanh09103/duykhanh09103/output/github-contribution-grid-snake-dark.svg">
