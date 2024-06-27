@@ -5,7 +5,7 @@
 
 ## About me
 - 🏫 I'm study in high school
-- 🌱 I'm currently learing frontend-backend 
+- 🌱 I'm currently learing web development 
 - 📫 You can contact me on discord @duykhanh09103 or business@duykhanh09103.xyz
 ## Project i'm working on rn
  **currently none**
