@@ -8,7 +8,7 @@
 - 🌱 I'm currently learing web development 
 - 📫 You can contact me on discord @duykhanh09103 or business@duykhanh09103.xyz
 ## Project i'm working on rn
- **currently none**
+ -[**Minecraft_WsChat**](https://github.com/duykhanh09103/Minecraft_wsChat)
  - i would be happy to collab 
 ## Commits/Contributions  history(with snake)
 <picture>
