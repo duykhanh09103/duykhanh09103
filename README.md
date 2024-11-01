@@ -6,7 +6,7 @@
 ## About me
 - 🏫 I'm study in high school
 - 🌱 I'm currently learing web development 
-- 📫 You can contact me on discord @duykhanh09103 or business@duykhanh09103.xyz
+- 📫 You can contact me on discord @duykhanh09103
 ## Project i'm working on rn
  -[**Minecraft_WsChat**](https://github.com/duykhanh09103/Minecraft_wsChat)
  - i would be happy to collab 
