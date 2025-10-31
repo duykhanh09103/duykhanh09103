@@ -5,8 +5,8 @@
 
 ## About me
 - 🏫 I'm study in high school
-- 🌱 I'm stupid 😭
-- 📫 You can contact me on discord @duykhanh09103
+- 💔 I'm stupid 😭
+- 📫 You can contact me on discord @duykhanh09103 / me@duykhanh09103.dev
 ## Project i'm working on rn
  - [**Minecraft_WsChat**](https://github.com/duykhanh09103/Minecraft_wsChat)
  - Minecraft Random Plugin
