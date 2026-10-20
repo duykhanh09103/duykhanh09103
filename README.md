@@ -4,7 +4,7 @@
 </div>
 
 ## About me
-- 🏫 I'm study in high school
+- 🏫 Im in uni now 💀
 - 💔 I'm stupid 😭
 - 📫 You can contact me on discord @duykhanh09103 / me@duykhanh09103.dev
 ## Project i'm working on rn
